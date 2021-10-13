@@ -85,7 +85,7 @@ author:
   bio              : "Graduate student at Rice University"
   location         : "Houston, TX"
   employer         :
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4bmAPA0AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/scientific-contributions/Kun-Hu-2154779914"
