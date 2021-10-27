@@ -10,4 +10,6 @@ redirect_from:
 
 About me
 ======
-I am a PhD candidate in physics at Rice University. 
+I am a PhD candidate in the Department of Physics & Astronomy at Rice University under the supervision of Dr. Matthew Baring.
+
+My research focuses on the radiative transfer problems in both atmospheres and magnetospheres of neutron stars, with an emphasis on magnetars.
