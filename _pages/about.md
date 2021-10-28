@@ -16,9 +16,9 @@ My research focuses on the radiative transfer problems in both atmospheres and m
 
 My research
 ======
-###Polarized radiative transfer in magnetars’ surface layers
+### Polarized radiative transfer in magnetars’ surface layers
 
-###Photon opacities in magnetars’ magnetospheres
+### Photon opacities in magnetars’ magnetospheres
 
 Publication list
 ======
